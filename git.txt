@@ -1,0 +1,9 @@
+Git and git hub---->vcs                            stafing area and commmit          
+git --->vcs (version control system) 
+if you want to update any project or any changes in project first you have to have save previos code in one place that id VCS
+            repo(remote repository)(prooject holder)
+ 
+
+working directory    staging area     local repository   remote repository
+
+
