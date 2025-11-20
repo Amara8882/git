@@ -4,6 +4,17 @@ if you want to update any project or any changes in project first you have to ha
             repo(remote repository)(prooject holder)
  
 
-working directory    staging area     local repository   remote repository
+              working directory    staging area     local repository   remote repository
+                                git add         git commit          git push
+  
 
+amarasimha830912@gmail.com
+Amar@8882user
+Amara8882
+
+     
+
+
+git init      untracked file----->we send files as --group of files----  
+                                  indivisual          
 
